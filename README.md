@@ -27,6 +27,8 @@ In other to run the game, the source files must first be processed first. Follow
 First, make sure that you have built the code. Then, open `/Deploy/index.html` in either Firefox or Chrome.
 Unfortunately, but not surprisingly, the game does not run well on Internet Explorer.
 
+You can also [play the game online](//marcoslopezc.github.io/AirportMadness).
+
 ## Runtime options
 
 When the game starts, multiple properties are placed in the global namespace.
